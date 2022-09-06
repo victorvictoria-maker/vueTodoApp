@@ -105,5 +105,7 @@ import { ref, onMounted, computed, watch } from 'vue';
           </div>
         </div>
       </section>
+
+      <h3 class="builtBy">Built by <a href="https://wa.link/y4fjjl">Vee</a></h3>
   </main>
 </template>
